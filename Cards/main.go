@@ -19,4 +19,6 @@ func newCard() deck {
 		}
 	}
 
+	return cards
+
 }
